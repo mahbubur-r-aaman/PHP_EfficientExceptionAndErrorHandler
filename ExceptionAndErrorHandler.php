@@ -3,7 +3,7 @@
 /**
 * Efficient Exception and Error  Handling
 *
-* @author Md. Mahbubur R. Aaman <mahbubur.r.aaman@gmail.com>
+* @author Md. Mahbubur R. Aaman 
 * @link http://mahbubur-r-aaman.blogspot.com
 * @copyright (c) 2015 Md. Mahbubur R. Aaman
 * @license MIT License - http://www.opensource.org/licenses/mit-license.php
